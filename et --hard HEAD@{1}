@@ -1,0 +1,497 @@
+[33mcommit 779aa015d847f82c2f4ada421398f014bef00906[m[33m ([m[1;36mHEAD -> [m[1;32mSase[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/Sase[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: bec52b1 b9c5ae1
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Thu Jan 2 11:47:51 2025 +0530
+
+    update on progress bar
+
+[33mcommit bec52b1b651e4ac494077c62455ab1e1ba2aab08[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Thu Jan 2 11:46:12 2025 +0530
+
+    update on progress bar
+
+[33mcommit b9c5ae195bf8f33b428f1ee99eb82bdda87bf54c[m
+Merge: c9cbda9 5ab33aa
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 26 15:18:59 2024 +0530
+
+    Merge pull request #31 from 64SquaresApexLLP/Sase
+    
+    fixed the bug in the limit and changes in UI
+
+[33mcommit 5ab33aa5b01eab9aa5d518ceb5848dd1cb12d365[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 26 15:17:09 2024 +0530
+
+    fixed the bug in the limit and changes in UI
+
+[33mcommit c9cbda903513831331c5f8781565e2966c36eb7c[m
+Merge: a408667 637bd90
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 17:08:49 2024 +0530
+
+    Merge pull request #30 from 64SquaresApexLLP/Sase
+    
+    Sase
+
+[33mcommit 637bd9096eac27d74f269d5db172217c4a3b890a[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 17:08:15 2024 +0530
+
+    Dynamic fetching of user id ,displaying in to  the user interface
+
+[33mcommit 201178342c56e100f42824dbdf416eda9837d7b9[m
+Merge: 32dea5b a408667
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 12:43:19 2024 +0530
+
+    Merge branch 'main' of https://github.com/64SquaresApexLLP/Label-Studio-Training-Replica into Sase
+
+[33mcommit 32dea5bb23345b83526b7e931b9ced457b696222[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 12:42:40 2024 +0530
+
+    fixed the api issue for the submitted task
+
+[33mcommit 1c9ab440c1d2ca1d63fd4d69315bf97074ccb77b[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 12:41:58 2024 +0530
+
+    fixed the api issue for the submitted task
+
+[33mcommit a408667c6d3fa4e7fea3b689c3a8a6e2c4c50d97[m
+Merge: 580bc0e 7bbf7fb
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 12:40:45 2024 +0530
+
+    Merge pull request #29 from 64SquaresApexLLP/Sase
+    
+    shifted to local db
+
+[33mcommit 7bbf7fb2818d06083ba4a05308f67c8b80132c0f[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Tue Dec 24 12:40:09 2024 +0530
+
+    shifted to local db
+
+[33mcommit 580bc0e55f5345192c149696ebe4a7b425a2ce71[m[33m ([m[1;32mmain[m[33m)[m
+Merge: e993aa0 fa275cc
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 23 17:38:26 2024 +0530
+
+    Merge pull request #28 from 64SquaresApexLLP/Sase
+    
+    updated the spinner
+
+[33mcommit fa275ccbc879da4db8b7a791d24e594b6d3c5d26[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 23 17:37:52 2024 +0530
+
+    updated the spinner
+
+[33mcommit e993aa0738121a5175c2e9907bb34561abeb4700[m
+Merge: bae8ef6 78b7a85
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 23 15:09:04 2024 +0530
+
+    Merge pull request #27 from 64SquaresApexLLP/Sase
+    
+    Sase
+
+[33mcommit 78b7a850940bd6660ec8f7069ecc66ad17f17fac[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 23 15:08:19 2024 +0530
+
+     REMOVED UPDATE FEATURE and added limit 10 question for the test
+
+[33mcommit 3f2237f934ef1d73fec86eb2804b4fd9030fe4dd[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 20 12:26:20 2024 +0530
+
+    build-2
+
+[33mcommit e937165c145d9d66efe4dad4f73b825df19bbcd1[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 20 12:23:29 2024 +0530
+
+    build
+
+[33mcommit bae8ef6751b142ad78ecc3d6f6395ed870cbaea6[m
+Merge: f63dae5 768fda8
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 20 12:21:25 2024 +0530
+
+    Merge pull request #26 from 64SquaresApexLLP/Sase
+    
+    gh pages frontend
+
+[33mcommit 768fda81b8efd1c30bab9ff49b98606ee48cbc74[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 20 12:20:11 2024 +0530
+
+    gh pages frontend
+
+[33mcommit f63dae5f5e43fff31ca2c7b7e6a25dbea083b700[m
+Merge: ad764ee b64eb6e
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 19 17:07:28 2024 +0530
+
+    Merge pull request #25 from 64SquaresApexLLP/Sase
+    
+    Sase
+
+[33mcommit b64eb6e859ab16fdcc601885dbda09439c63d14a[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 19 17:05:38 2024 +0530
+
+    Shifted the project from Git Compass to Git Atlas
+
+[33mcommit ad764eeceaff685a7ae09bb959160602450cf8b1[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Mon Dec 16 17:24:19 2024 +0530
+
+    update in api, progress bar.....
+
+[33mcommit 4412da0968cd830e0ac8d9f08af3cad6a5aec9e8[m
+Merge: 01a809f 615dc5b
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 16 17:16:21 2024 +0530
+
+    Merge pull request #24 from 64SquaresApexLLP/Sase
+    
+    Sase
+
+[33mcommit 615dc5b64eb75d895f2c8b0c7b8156491e3f0bd1[m
+Merge: 7cab8d3 01a809f
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 16 17:15:28 2024 +0530
+
+    Merge branch 'main' of https://github.com/64SquaresApexLLP/Label-Studio-Training-Replica into Sase
+
+[33mcommit 01a809fbe3951376531ed04bb73e2eb9f4ce79eb[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Mon Dec 16 16:23:04 2024 +0530
+
+    complete for now
+
+[33mcommit 7cab8d343ee84ffd272764e38e0c7fba3b63b24b[m
+Merge: 17de4d3 25c6493
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 16 15:06:08 2024 +0530
+
+    Merge pull request #23 from 64SquaresApexLLP/Sase
+    
+    Ai response bug fixed
+
+[33mcommit 25c649312e6c7b49801b3fa62a07cde119c2b355[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Mon Dec 16 15:05:32 2024 +0530
+
+    Ai response bug fixed
+
+[33mcommit 17de4d353fb66b22319198bb52c70b23890fb5bb[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Mon Dec 16 11:29:23 2024 +0530
+
+    update
+
+[33mcommit aeba8e2943b425fdfd080f46ba985cdcfdf268a9[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Mon Dec 16 11:00:14 2024 +0530
+
+    Update in submit task
+
+[33mcommit ede658c27fb0834acb7efc265f98d88dbe039d65[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Sun Dec 15 05:31:53 2024 +0530
+
+    update
+
+[33mcommit ef4feda8e2327ce26d26f970cb475c92a6472bc5[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Sat Dec 14 20:33:35 2024 +0530
+
+    update
+
+[33mcommit 76976ec8745b1d98081c35c894f1ac1c96b622a7[m
+Merge: 6351a3c 8f39d1e
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Sat Dec 14 15:44:50 2024 +0530
+
+    Merge branch 'main' of https://github.com/64SquaresApexLLP/qa_dashboard
+
+[33mcommit 6351a3c02130cd4b58ec988e6e5f6c614cd9f354[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Sat Dec 14 15:44:35 2024 +0530
+
+    update
+
+[33mcommit 8f39d1ee8a2634e7d99f90dbbbee24f728167ea6[m
+Merge: 503c79d e5c0d18
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 13 15:06:55 2024 +0530
+
+    Merge pull request #22 from 64SquaresApexLLP/Sase
+    
+    task view updated
+
+[33mcommit e5c0d189714444b28f3c54c333852505c984beea[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 13 15:06:14 2024 +0530
+
+    task view updated
+
+[33mcommit 503c79d7d1e31ab91d1a7d4e4b93bb8ad31cef60[m
+Merge: 9c44ebe d24e38d
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 13 11:13:10 2024 +0530
+
+    Merge pull request #21 from 64SquaresApexLLP/Sase
+    
+    task view updated
+
+[33mcommit d24e38d487290588e6ca0d50379ac0af0991a13a[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 13 11:12:33 2024 +0530
+
+    task view updated
+
+[33mcommit 9c44ebe68a8a09489b0fa123dcff7cddc6a94828[m
+Merge: 7f6dd03 086f693
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 13 11:02:59 2024 +0530
+
+    Merge pull request #20 from 64SquaresApexLLP/MUSKAN
+    
+    Task view page
+
+[33mcommit 086f693a23e59e6b7aad66642f7a735ddd2f6b89[m
+Merge: ec0280b 7f6dd03
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Fri Dec 13 11:02:50 2024 +0530
+
+    Merge branch 'main' into MUSKAN
+
+[33mcommit ec0280bffc70cd26ef902c41c77af41b23e86c6b[m
+Author: muskan <muskanshipai13@gmail.com>
+Date:   Fri Dec 13 09:26:05 2024 +0530
+
+    Task view page
+
+[33mcommit 7f6dd0352cc87bc4c82b1b048a6e0509864c662f[m
+Merge: 9074ba7 0398669
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 17:10:27 2024 +0530
+
+    Merge pull request #19 from 64SquaresApexLLP/Sase
+    
+    task view updated
+
+[33mcommit 03986695d637465ade812ed2989d108df63e3296[m
+Merge: b4c922a 9074ba7
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 17:10:18 2024 +0530
+
+    Merge branch 'main' into Sase
+
+[33mcommit b4c922aedcbd62ea82675c7c1d43b68af572e907[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 17:08:06 2024 +0530
+
+    task view updated
+
+[33mcommit 9074ba7e0ddb56c4f23da8665b9ee7561e0fa3f9[m
+Merge: 3d15954 6165f97
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Thu Dec 12 16:06:39 2024 +0530
+
+    Merge branch 'main' of https://github.com/64SquaresApexLLP/qa_dashboard
+
+[33mcommit 3d15954c7556db83e17c522836e88d4585fb8c11[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Thu Dec 12 16:06:14 2024 +0530
+
+    conflict sol
+
+[33mcommit 6165f973fba73457fd1ba3e8800ead5a01985141[m
+Merge: 1cdb8ba b3351d6
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Thu Dec 12 16:04:54 2024 +0530
+
+    Merge pull request #15 from 64SquaresApexLLP/anuja
+    
+    task view page,task complete
+
+[33mcommit 1cdb8ba88a7ed416640fa2a769213da6cbf0d843[m
+Merge: f796e12 9b555eb
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Thu Dec 12 16:03:03 2024 +0530
+
+    add project
+
+[33mcommit 9b555eb9d964d058598b905aa15b5be71be1b90e[m
+Merge: 05e070f 7bdc9c2
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 15:00:37 2024 +0530
+
+    Merge pull request #18 from 64SquaresApexLLP/Sase
+    
+    total count added
+
+[33mcommit 7bdc9c2326def21158bd613e85bc4b2debdea180[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 15:00:06 2024 +0530
+
+    total count added
+
+[33mcommit 05e070f9f64eb731dbf3abe448b67f28b0e1cec3[m
+Merge: 3809dbb ca0c90d
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 12:26:41 2024 +0530
+
+    Merge pull request #17 from 64SquaresApexLLP/Sase
+    
+    filter component upated
+
+[33mcommit ca0c90db663b46ffa0aef6963f536ded7dd4dea2[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Thu Dec 12 12:25:49 2024 +0530
+
+    filter component upated
+
+[33mcommit f796e1220b9a680ff02fe96fd0edc3193684c4ea[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Wed Dec 11 23:39:25 2024 +0530
+
+    making filter bar update, remove and add colunm
+
+[33mcommit 3809dbb8c7cb6a2544eb1c497f1a4501c2ab0f96[m
+Merge: f2f95e0 b6fc4a5
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Wed Dec 11 23:37:23 2024 +0530
+
+    making filter bar update, remove and add colunm
+
+[33mcommit f2f95e09d3f6ba95066ca3d9d7df805977b259f7[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Wed Dec 11 23:36:30 2024 +0530
+
+    making filter bar update, remove and add colunm
+
+[33mcommit b6fc4a5813ca164850ed89f93226944ed878f6e4[m
+Merge: 868652d 9568357
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 17:38:06 2024 +0530
+
+    Merge pull request #16 from 64SquaresApexLLP/Sase
+    
+    filter dynamic done
+
+[33mcommit 95683573d70665c829cbb31e8740fa309a74092d[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 17:36:59 2024 +0530
+
+    filter dynamic done
+
+[33mcommit b3351d6ac430e22091662b8a9fbe13c24bc3148b[m
+Author: Komal Navale <2020mt93614@wilp.bits-pilani.ac.in>
+Date:   Wed Dec 11 16:50:22 2024 +0530
+
+    task view page,task complete
+
+[33mcommit 868652d80ed37453001853a96a564831c413a26b[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Wed Dec 11 15:54:57 2024 +0530
+
+    sol conflict
+
+[33mcommit e5236ef939abc0d8f6ef5d7348f794d7b649419c[m
+Merge: ed29a95 fb7730d
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 15:52:48 2024 +0530
+
+    Merge pull request #14 from 64SquaresApexLLP/Sase
+    
+    filter operator updated
+
+[33mcommit fb7730db827f0f5f0c688fe3968d8995676122f3[m
+Merge: fdd9ab8 ed29a95
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 15:52:38 2024 +0530
+
+    Merge branch 'main' into Sase
+
+[33mcommit fdd9ab8cc52aa0bf7cd541c1d769de0296da06c4[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 15:50:57 2024 +0530
+
+    filter operator updated
+
+[33mcommit ed29a951ff8a71d71fae4f417ab3bb2d4f7ff5ed[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Wed Dec 11 15:49:51 2024 +0530
+
+    filter tab changes
+
+[33mcommit 3fdac0c260cb4fbe4e8f508b71ad9bfcc708c27c[m
+Merge: 468e501 2c4ab59
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 12:32:14 2024 +0530
+
+    Merge pull request #13 from 64SquaresApexLLP/Sase
+    
+    filter option dynamic
+
+[33mcommit 2c4ab5950333d7fac60544ad09aa6dbdda8fb7dd[m
+Author: Sase Sudarshan Anashabapu <97077027+SaseSudarshan@users.noreply.github.com>
+Date:   Wed Dec 11 12:31:30 2024 +0530
+
+    filter option dynamic
+
+[33mcommit 468e50180b17bd6457463509a825985abc06ba64[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Wed Dec 11 12:05:34 2024 +0530
+
+    redux for filter for table is added
+
+[33mcommit 52f5bc25bb6b7479b4a66f90839c905857188b93[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Tue Dec 10 15:01:38 2024 +0530
+
+    sort by filter
+
+[33mcommit edf44a1468d73ea85deb8cd196092d0db0dc9945[m
+Merge: 5574570 55f2a92
+Author: Anuja Gaikwad <165151707+AnujaGaikwad08@users.noreply.github.com>
+Date:   Tue Dec 10 12:57:32 2024 +0530
+
+    Merge pull request #12 from 64SquaresApexLLP/anuja
+    
+    Data table overflowing colums data resolved
+
+[33mcommit 55f2a9214800da9352af6626d877d5e67441654d[m[33m ([m[1;31morigin/anuja[m[33m)[m
+Merge: c3f9ae5 5574570
+Author: Komal Navale <2020mt93614@wilp.bits-pilani.ac.in>
+Date:   Tue Dec 10 12:55:45 2024 +0530
+
+    Merge branch 'main' of https://github.com/64SquaresApexLLP/Label-Studio-Training-Replica into anuja
+
+[33mcommit c3f9ae51f29e4e8ddec8bf9f9c5934bc076f117b[m
+Author: Komal Navale <2020mt93614@wilp.bits-pilani.ac.in>
+Date:   Tue Dec 10 12:54:14 2024 +0530
+
+    Data table overflowing colums data resolved
+
+[33mcommit 5574570536a539b2cbeda8e51909fcdf079d4131[m
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Tue Dec 10 12:49:48 2024 +0530
+
+    solving conflict
+
+[33mcommit b3145d087dffad41a8c498faa29d05b52d715f07[m
+Merge: a652df4 b57c658
+Author: Neeraj Prajapati <neerajrp1999@gmail.com>
+Date:   Tue Dec 10 12:21:27 2024 +0530
+
+    Merge branch 'main' of https://github.com/64SquaresApexLLP/qa_dashboard

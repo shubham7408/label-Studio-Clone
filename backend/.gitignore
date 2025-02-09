@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.*
+
+# Build output directories (if applicable)
+dist/
+build/
+
+# Package lock files (if not using Yarn or npm to manage versions)
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+
+# Coverage reports (if using testing tools like Jest)
+coverage/
+
+# TypeScript (if using TypeScript in the backend)
+tsconfig.tsbuildinfo
+
+# PM2 or other process manager logs (if applicable)
+pids/
+logs/
+
+# Other files that should not be versioned (e.g., runtime data, backup files, etc.)
+*.bak
+*.tmp
+*.pid
